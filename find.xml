@@ -1,11 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*.log" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.as</mask>
@@ -21,7 +19,7 @@
     <mask>*.groovy</mask>
     <mask>*. java</mask>
     <mask>*.yml</mask>
-    <mask>*.java</mask>
     <mask>!*.log</mask>
+    <mask>*.java</mask>
   </component>
 </application>
