@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.yml" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.as</mask>
@@ -17,9 +18,9 @@
     <mask>*.iml</mask>
     <mask>*.groovy</mask>
     <mask>*. java</mask>
-    <mask>*.yml</mask>
     <mask>!*.log</mask>
     <mask>*.sql</mask>
     <mask>*.java</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
